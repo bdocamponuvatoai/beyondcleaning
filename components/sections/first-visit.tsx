@@ -13,14 +13,11 @@ export function FirstVisit() {
           >
             <Image
               src={care}
-              alt="Illustrative image: a cleaner in a green polo and gloves wiping a stone kitchen counter"
+              alt="A cleaner in a green polo and gloves wiping a stone kitchen counter"
               placeholder="blur"
               sizes="(min-width: 64rem) 40vw, 100vw"
               className="size-full object-cover"
             />
-            <figcaption className="absolute bottom-4 left-4 rounded-full bg-stone-50/92 px-3 py-1.5 caps-label text-ink">
-              Illustrative image
-            </figcaption>
           </div>
         </figure>
 

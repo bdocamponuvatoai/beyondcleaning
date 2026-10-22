@@ -91,7 +91,6 @@ export function SiteFooter() {
         <p>
           © {year} {business.legalName}
         </p>
-        <p>Photography is illustrative and does not show Beyond Cleaning staff or projects.</p>
         <Link href="/privacy" className={linkClass}>
           Privacy
         </Link>

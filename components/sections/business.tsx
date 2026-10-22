@@ -54,9 +54,6 @@ export function Business() {
             Plan a business quote <ButtonArrow icon={<ArrowRight />} />
           </RequestButton>
         </div>
-        <p className="justify-self-start rounded-full bg-ink-950/80 px-3 py-1.5 caps-label text-white lg:col-span-6 lg:self-end lg:justify-self-end">
-          Illustrative image
-        </p>
       </div>
     </section>
   );

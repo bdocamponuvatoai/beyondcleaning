@@ -112,13 +112,12 @@ Semantic landmarks, a skip link, one `h1` per page, native `<dialog>` with focus
 
 ## Content policy
 
-Business facts come from beyondcleaning.com (reviewed 2026-10-23); see `docs/content-sources.md`, which also lists every live-site claim left off and the question to ask about each. Imagery is AI-generated, labelled "Illustrative image" and described in `docs/image-generation.md`.
+Business facts come from beyondcleaning.com (reviewed 2026-10-23); see `docs/content-sources.md`, which also lists every live-site claim left off and the question to ask about each. Imagery is AI-generated and used as the final assets; prompts are in `docs/image-generation.md`.
 
 ### Before public launch
 
 - [ ] Owner approves copy, business details, the redrawn wordmark and imagery
 - [ ] Owner answers the questions in `docs/content-sources.md` (insurance, background checks, guarantee, 24/7, years in business, reviews link)
-- [ ] Replace illustrative photography with real job photos where possible
 - [ ] Decide whether quote requests should go to an email inbox or booking tool, and connect it
 - [ ] Set `NEXT_PUBLIC_SITE_URL` to the production domain and `NEXT_PUBLIC_ALLOW_INDEXING=true`
 - [ ] Test the call button and a full quote on the owner's phone

@@ -1,6 +1,6 @@
 # Image generation
 
-All photography on the site is AI-generated and labelled "Illustrative image" where it appears. It does not show Beyond Cleaning staff, premises or completed jobs. Replace it with real job photos once the client supplies them.
+All photography on the site is AI-generated and used as the final site assets, without on-page labels. It does not show Beyond Cleaning staff, premises or completed jobs.
 
 The prompts below are the originals from the ChatGPT build (built-in image generation tool). No image contains a logo, brand mark or text.
 

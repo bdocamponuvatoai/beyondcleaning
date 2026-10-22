@@ -79,7 +79,7 @@ export function Hero() {
           <div className="relative h-[min(62svh,30rem)] min-h-72 overflow-hidden rounded-[1.75rem] sm:h-[34rem] lg:h-[min(50rem,84vh)] lg:rounded-l-[2.5rem] lg:rounded-r-none">
             <Image
               src={home}
-              alt="Illustrative image: a sunlit brownstone living room with a linen sofa and an oak coffee table"
+              alt="A sunlit brownstone living room with a linen sofa and an oak coffee table"
               preload
               fetchPriority="high"
               placeholder="blur"
@@ -87,9 +87,6 @@ export function Hero() {
               className="size-full object-cover object-[62%_50%]"
             />
           </div>
-          <figcaption className="absolute bottom-4 left-4 rounded-full bg-stone-50/92 px-3 py-1.5 caps-label text-ink">
-            Illustrative image
-          </figcaption>
         </figure>
       </div>
     </section>
